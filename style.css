@@ -19,6 +19,12 @@ nav ul li a {
     font-weight: bold;
 }
 
+a {
+   text-decoration: none;
+    color: #00c8ff;
+    font-weight: bold; 
+}
+
 h1 {
     font-size: 2em;
 }
